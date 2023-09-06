@@ -9,9 +9,6 @@ import {
 
 export default function StaticFaqSection() {
   return (
-      <div id="faq" className="text-center">
-      <div className="container">
-        <div className="col-md-8 col-md-offset-2 section-title">
     <MDBContainer>
       <section>
         <MDBTypography

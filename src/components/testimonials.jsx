@@ -2,10 +2,10 @@ import React from "react";
 
 export const Testimonials = (props) => {
   return (
-    <div id="testimonials">
+    <div id="event">
       <div className="container">
         <div className="section-title text-center">
-          <h2>What our clients say</h2>
+          <h2>Visit Our Events</h2>
         </div>
         <div className="row">
           {props.data

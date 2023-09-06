@@ -1,13 +1,14 @@
 import React from "react";
 
-export const Faq = (props) => {
+export const Team = (props) => {
   return (
-    <div id="faq" className="text-center">
+    <div id="team" className="text-center">
       <div className="container">
         <div className="col-md-8 col-md-offset-2 section-title">
-          <h2>FAQ</h2>
+          <h2>Meet the Team</h2>
           <p>
-            Frequently Asked Questions.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
+            dapibus leonec.
           </p>
         </div>
         <div id="row">

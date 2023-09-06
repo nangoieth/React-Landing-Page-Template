@@ -1,11 +1,4 @@
 import React from "react";
-import {
-  MDBCol,
-  MDBContainer,
-  MDBIcon,
-  MDBRow,
-  MDBTypography,
-} from "mdb-react-ui-kit";
 
 export default function StaticFaqSection() {
   return (

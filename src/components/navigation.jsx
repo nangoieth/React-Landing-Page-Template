@@ -21,20 +21,20 @@ export const Navigation = (props) => {
             Fugu Society
           </a>{" "}
         </div>
-
         <div
           className="collapse navbar-collapse"
           id="bs-example-navbar-collapse-1"
         >
           <ul className="nav navbar-nav navbar-right">
+
             <li>
               <a href="#about" className="page-scroll">
-                Home
+                About
               </a>
             </li>
             <li>
               <a href="#services" className="page-scroll">
-                About
+                Home
               </a>
             </li>
             <li>
@@ -43,7 +43,7 @@ export const Navigation = (props) => {
               </a>
             </li>
             <li>
-              <a href="#testimonials" className="page-scroll">
+              <a href="#event" className="page-scroll">
                 Event
               </a>
             </li>

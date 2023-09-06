@@ -1,6 +1,6 @@
 import React from "react";
 
-export const Team = (props) => {
+export const Faq = (props) => {
   return (
     <div id="faq" className="text-center">
       <div className="container">
